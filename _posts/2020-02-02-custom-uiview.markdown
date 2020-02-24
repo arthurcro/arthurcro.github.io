@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a custom UIView from a Xib in Swift"
 date:   2020-02-02 16:21:10 +0100
-categories: Tips
+categories: [Tips 🚀]
 ---
 
 ## Why is it important? 🤔
