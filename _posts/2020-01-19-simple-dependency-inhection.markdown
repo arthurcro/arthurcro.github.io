@@ -81,4 +81,4 @@ Introducing unit testing to a project is key to:
 
 Personally, proper dependency injection was a real game-changer. It enabled me to write cleaner code and learn unit testing.
 
-I have been using SnapshotTesting, SwiftyMocky, and Nimble for a while now and it’s a combination that works very well.
+I have been using [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing), [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky), and [Nimble](https://github.com/Quick/Nimble) for a while now and it’s a combination that works very well.
