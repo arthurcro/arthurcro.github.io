@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: "simple-dependency-injection"
 title:  "Simple dependency injection"
 date:   2020-01-19 17:21:10 +0100
 categories: [Architecture 👷🏻‍♂]

@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+iOS Developer since 2018. Currently working at [Picnc, Amsterdam](https://picnic.app/nl/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Also, I'm a big fan of rap music, check out my [playlist](https://open.spotify.com/playlist/1WFbhb4ao5XxUfkcBh3Jvg?si=4lnAPptWT8SGqXR0GE09aA) if you want to listen to some 🔥 songs! 
