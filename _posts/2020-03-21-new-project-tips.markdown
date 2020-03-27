@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: "explore-project-tips"
-title:  "Tips to exlpore a codebase"
+title:  "Tips to explore a codebase"
 date:   2020-03-21 10:21:10 +0100
 categories: [Tips 🚀]
 ---
