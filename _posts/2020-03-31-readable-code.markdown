@@ -2,7 +2,7 @@
 layout: post
 permalink: "readable-code"
 title: "Write readable code"
-date: 2020-03-31 20:11:15 +0100
+date: 2020-03-31 17:57:15 +0100
 categories: [Tips 🚀]
 ---
 
@@ -18,7 +18,7 @@ Other people should be able to get into your codebase easily, they should be abl
 
 Making sure you produce readable code is important for different reasons. Unreadable code is a major factor in technical debt. Unreadable code slows down a team and a project's progress. Making sure a team produces readable code reduces the technical debt and allows for:
 
-- **Faster bug fixes**: it's easier to go understand a piece of code and so bugs in existing logic are fixed faster.
+- **Faster bug fixes**: it's easier to understand a piece of code hence bugs related to existing logic are fixed faster.
 - **Faster development**: new developers can get up to speed with a codebase faster, they can contribute to the project sooner and more efficiently.
 - **Better review**: people can review your code and the implementation of a feature more carefully when they don't have to decrypt your code. This leads to a better review process and a safer and healthier codebase.
 
@@ -85,10 +85,10 @@ To enforce those rules, there are many options. I use [Swiflint](https://github.
 - [LinkedIn](https://github.com/linkedin/swift-style-guide)
 
 
-Xcode can also be help you format your code properly. 
+Xcode can also help you format your code properly. 
 
 - `Ctrl + I` on selected code will format your code and fix any indentation issues.
 
 - *Preferences* -> *Text Editing* -> *Tab Key* -> **Indents always** will allow you to properly any selected code using the `Tab` key.
 
-- *Preferences* -> *Text Editing* -> **Page guide at column: 120** add a indicator in your editor so you can easily see if you have more than 120 characters on one line.
+- *Preferences* -> *Text Editing* -> **Page guide at column: 120** add am indicator in your editor so you can easily see if you have more than 120 characters on one line.
