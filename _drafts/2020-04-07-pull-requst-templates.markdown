@@ -29,7 +29,7 @@ Pull request templates help ensure that each pull request made by the team as a 
 
 # Examples 📝
 
-Here are the templates I use the most.
+Here are the templates my team and I use the most.
 
 Bug fix template:
 
