@@ -63,7 +63,7 @@ Both as a new developer and as an experienced one, there are so much opportunity
 
 ## Speed & continuous code review
 
-Pair programming eliminates a lot of discussions during the pull requests review process by moving those during the development phase.
+Pair programming eliminates a lot of discussions during the pull requests review process by moving those during the development phase. In a pair, there is always one engineer responsible for coding, the other one for thinking ahead. By having this separation of concern, more thinking power goes into identifying issues, finding optimal solutions, avoiding common pitfalls as opposed when coding alone where one has to divide their thinking power between coding and ???.
 
 # How to get started 🛠
 
@@ -71,13 +71,30 @@ Pair programming eliminates a lot of discussions during the pull requests review
 
 Pair programming does not have to be a big deal. You do not have to explicitly schedule an official pair programming session with someone. Instead, just ask them to look at some code with you! Then you can pair program if needed and it'll feel more natural, more relaxed, more comfortable and people will be willing to do it more often!
 
+It might not be relevant for you and your team to pair on every issues. Experiment with the frequency of the sessions, the length of the sessions,
+
 ## Use the right tools
+
+If pairing on site make sure to use:
+
+- Two keyboards
+- Two monitors
+- Two mice
+
+all connected to one computer. With this setup, REASON ???
+
+If pairing remotely, there are different apps you can use:
+
+- [Tuple](https://tuple.app/) (personal favorite)
+- [screen](https://screen.so)
+- [TeamViewer](https://www.teamviewer.com/en-us/)
+- [use-together](https://www.use-together.com/)
 
 ## Practice
 
-Pair-programming is a skill. Being good at pair-programming takes practice.
+Pair-programming is a skill. Being good at pair-programming takes practice. Here are a few points to keep in mind while pairing:
 
 - Pair with empathy
-- Reduce ceremony to practice more
-- Mini retrospective at the end of each session
-- Follow guides
+- Reduce ceremony
+- Take breaks
+- Do a mini retrospective after each session
